@@ -1,5 +1,4 @@
-# Aquário Automatizado
-#Performance em Sistemas Ciberfísicos
+# Aquário Automatizado (Performance em Sistemas Ciberfísicos)
  
 👤 Integrantes:
 Vinicius Padilha
