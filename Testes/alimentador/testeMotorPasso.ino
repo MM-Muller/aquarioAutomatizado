@@ -14,7 +14,7 @@
 #define in4 22
 
 // Número de passos para um acionamento completo
-int passosPorAcionamento = 17;
+int passosPorAcionamento = 32;
 // Número de acionamentos por refeição
 int passosRefeicao = 4;
 
