@@ -1,8 +1,13 @@
 # Aquário Automatizado
 ## 👤 Integrantes: 
 - Vinicius Padilha
+- Integração do hardware e controle do motor.
+##
 - Matheus Marcondes Muller
+- Desenvolvimento da interface com o Telegram e integração com o RTC.
+##
 - Germano Lagana
+- Testes dos sensores, análise de dados e documentação técnica. 
 
 ## 📖 Descrição
 ●	O projeto consiste no desenvolvimento de um aquário automatizado, integrando o microcontrolador ESP32 para controlar a alimentação dos peixes, monitorar a temperatura da água e regular a iluminação de forma inteligente. O sistema também enviará dados em tempo real para o usuário, permitindo o acompanhamento remoto das condições do aquário por meio de um aplicativo ou plataforma web. 
